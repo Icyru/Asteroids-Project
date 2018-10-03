@@ -47,6 +47,22 @@
             }
         },
         {
+            "Key": "11434c49-b5aa-4fc9-8047-c5f2b033e04f",
+            "Value": {
+                "id": "e83fc3d3-1a6a-45ff-9d1a-42736b6b9c2b",
+                "resourcePath": "sprites\\sprite_asteroid_mini\\sprite_asteroid_mini.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "19f4f75b-181e-405f-a41c-c0d60fe5e2d5",
+            "Value": {
+                "id": "25ddce9d-cd5a-4fbb-94bf-952dce9365ff",
+                "resourcePath": "objects\\object_asteroid_mini\\object_asteroid_mini.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1a370609-d7a3-4a2f-bbbd-5e60a649fa18",
             "Value": {
                 "id": "fa7182c4-d88f-4c26-b194-f33549053d3f",
