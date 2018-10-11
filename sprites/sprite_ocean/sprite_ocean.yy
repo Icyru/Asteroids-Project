@@ -2,7 +2,7 @@
     "id": "43771346-2362-4b5e-9085-9f5c509c6f0e",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite4",
+    "name": "sprite_ocean",
     "For3D": false,
     "HTile": false,
     "VTile": false,
