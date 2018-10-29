@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "10442a48-d24c-4833-95ce-c20c2661247c",
+            "Value": {
+                "id": "b34b2fbb-e8e8-46af-81f2-56a4bb080ce8",
+                "resourcePath": "objects\\object_loot\\object_loot.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "11434c49-b5aa-4fc9-8047-c5f2b033e04f",
             "Value": {
                 "id": "e83fc3d3-1a6a-45ff-9d1a-42736b6b9c2b",
@@ -135,6 +143,14 @@
             }
         },
         {
+            "Key": "5478094e-8ffd-46c2-b5d9-30d920ec5a81",
+            "Value": {
+                "id": "1f9584bc-b3a5-4a8e-b700-a31bdc2e9b20",
+                "resourcePath": "sprites\\sprite_loot\\sprite_loot.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "56a56742-cd8b-407e-b056-b9e769b2d6f0",
             "Value": {
                 "id": "a3eaea8d-72ef-4919-bc58-5189ecb4a79a",
@@ -167,10 +183,26 @@
             }
         },
         {
+            "Key": "740e8b76-03b0-4faa-9684-b27f7eebb782",
+            "Value": {
+                "id": "14c1773c-e610-404f-8c04-e372f58b5ccf",
+                "resourcePath": "objects\\object_gems\\object_gems.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "801213d5-d814-4a89-9782-b7677c6eb5e5",
             "Value": {
                 "id": "713a8370-5cde-47ce-9739-9cb5feca907e",
                 "resourcePath": "sprites\\sprite_playership\\sprite_playership.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8f17bd14-da8f-4eb0-b03b-5b195f487656",
+            "Value": {
+                "id": "d7fb7eb0-2b90-49d5-842b-18bc7cbfedd9",
+                "resourcePath": "sprites\\sprite_gems\\sprite_gems.yy",
                 "resourceType": "GMSprite"
             }
         },
