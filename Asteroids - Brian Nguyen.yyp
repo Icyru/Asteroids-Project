@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "29868807-f830-4841-a5cf-34fdd3cd201c",
+            "Value": {
+                "id": "f43acf5d-3956-4164-ac3e-4d12400a3ba2",
+                "resourcePath": "fonts\\font_in_game\\font_in_game.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "32b7210a-aa25-4622-8a78-df2869106b35",
             "Value": {
                 "id": "e9f6f79c-be4b-4755-a282-bcc2d2c03e09",
@@ -282,7 +290,7 @@
             "Key": "da911da2-1123-4a89-bd61-27fed40b1190",
             "Value": {
                 "id": "1484a0fc-a685-47f3-9c0b-42a8d051558e",
-                "resourcePath": "objects\\object_spawning\\object_spawning.yy",
+                "resourcePath": "objects\\object_controller\\object_controller.yy",
                 "resourceType": "GMObject"
             }
         },
