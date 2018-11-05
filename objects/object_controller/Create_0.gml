@@ -7,3 +7,8 @@
 timeline_index = timeline_spawning;
 timeline_loop = 1;
 timeline_running = 1;
+
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 1A8D0F94
+/// @DnDArgument : "code" ""

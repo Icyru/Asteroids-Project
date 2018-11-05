@@ -18,3 +18,9 @@ draw_set_colour($FFFFFFFF & $ffffff);
 /// @DnDArgument : "font" "font_in_game"
 /// @DnDSaveInfo : "font" "29868807-f830-4841-a5cf-34fdd3cd201c"
 draw_set_font(font_in_game);
+
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 5B22EFF7
+/// @DnDArgument : "code" "draw_healthbar(10,45,90,60,healthship,c_black,c_red,c_lime,0,true,true)"
+draw_healthbar(10,45,90,60,healthship,c_black,c_red,c_lime,0,true,true)
