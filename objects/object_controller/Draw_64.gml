@@ -22,5 +22,5 @@ draw_set_font(font_in_game);
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 5B22EFF7
-/// @DnDArgument : "code" "draw_healthbar(10,45,90,60,healthship,c_black,c_red,c_lime,0,true,true)"
-draw_healthbar(10,45,90,60,healthship,c_black,c_red,c_lime,0,true,true)
+/// @DnDArgument : "code" "draw_healthbar(6,750,1017,760,healthship,c_black,c_red,c_lime,0,true,true)"
+draw_healthbar(6,750,1017,760,healthship,c_black,c_red,c_lime,0,true,true)

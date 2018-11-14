@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 305264D5
-/// @DnDArgument : "code" "instance_destroy(self)$(13_10)healthship=healthship+0.1$(13_10)"
+/// @DnDArgument : "code" "instance_destroy(self)$(13_10)healthship=healthship+0.2$(13_10)"
 instance_destroy(self)
-healthship=healthship+0.1
+healthship=healthship+0.2
 
 /// @DnDAction : YoYo Games.Instance Variables.Set_Score
 /// @DnDVersion : 1
